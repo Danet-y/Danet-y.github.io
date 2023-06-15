@@ -1,38 +1,43 @@
-<div class="fullscreen nopadding">
-  <div id="header">
-    <img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Small.png" width="50px" />
-    <ul>
-      <li>Home</li>
-      <li>About</li>
-    </ul>
-  </div>
-  <div class="header">
-    <h1>Lorem Ipsum</h1>
-  </div>
-</div>
-
-<div class="white nopadding more">
-  <a id="more">&#x25BC; More &#x25BC;</a>
-</div>
-
-<div class="white">
-  <a id="test"></a>
-  <h1>Dolor Sit Amet</h1>
-  <img class="floatleft" src="http://www.2020site.org/trees/images/PineNeedles.jpg" />
-  <p><a href="">Lorem ipsum</a> dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.</p>
-  <img class="floatright" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ilex-aquifolium_%28Europaeische_Stechpalme-1.jpg/220px-Ilex-aquifolium_%28Europaeische_Stechpalme-1.jpg" />
-  <p>Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque. Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt. Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.</p>
-</div>
-
-<div class="semitrans">
-  <h1>Et Cetera...</h1>
-  <p>Vivamus fermentum semper porta. Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula semper consectetur sagittis, nisi diam iaculis velit, id fringilla sem nunc vel mi.</p>
-  <h2>Sub est.</h2>
-  <p>Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum. Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare.</p>
-  <h2>Sed non.</h2>
-  <p>Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.</p>
-</div>
-
-<div class="dark">
-  <p>This pen was made by <a href="https://codepen.io/flyingfisch">flyingfisch</a>. Check out my <a href="http://toppagedesign.com">website</a>!</p>
-</div>
+----------------------------------------------------
+LOST OS v0.47
+----------------------------------------------------
+&nbsp;
+Press [ESC] to exit
+&nbsp;
+<span id="a">\\Root\ATL-srg&gt;</span><span id="b">login <!-- GehfgZrQrkLbhUnirGbGehfgZrGurerfAbJnlLbhErtergVg -->_MRZT721010_#7210</span>
+&nbsp;
+Enter Your Username: _MRZT721010_
+Enter Your Password: *********
+<span style="color: transparent">WWVzIEknbSAxOSBhcyBvZiBub3c</span>
+Login session was successful. <span id="k">Welcome, _MRZT721010_!</span>
+Type [cmds] to see all of the available commands.
+&nbsp;
+<span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><!-- A Wttx Vwvpz Rwjgpb Kwm --><span id="b">view Info.txt</span>
+Receiving submitted information...
+<span style="color: transparent">YmFuaSBhZGFtIGF6YXllIHlla2RpZ2FyYW5kL CBrZSBkYXIgYWZhcmluZXNoIHplIHllayBnb2hhcmFuZAp jaG8gb3p2aSBiZSBkYXJkIGF2YXJhZCByb296ZWdhciwgZGVn YXIgb3p2IGhhcmEgbmFtYW5hZCBnaGFyYXI</span>
+Hello, I'm Mohammadreza, but you can call me MRZT (I'd actually prefer to call me this). An average person on the internet who hangs out with friends on <span id="c" onclick="copyToClipboard('_MRZT721010_#7210')">Discord</span> and enjoys playing video games and programming.
+I love traveling and going to nature whenever getting a chance!
+Contributing to community projects is my passion. I'll be happy if you come to <span id="c"><a href="https://github.com/mrzt721010" target="_blank">my GitHub profile</a></span> and check my Organizations!
+Want to know me more? Then let us be friends!
+&nbsp;
+<span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/476322512129622016/950712219581169674/Mazmaz-1.mp4 | Also, if you've ever wondered what my avatar does refer to, it's the Cultist from EtD -->view prof.json</span>
+{
+    UE4/5: "<span id="c">Game Designer | Character Artist | Gameplay Engineer</span>",
+    Adobe illustrator: "<span id="c">Graphic Designer</span>",
+    C++: "<span id="c">Professional Developer</span>",
+    Java: "<span id="c">Junior Developer</span>",
+    22x5: SaF3o5VAt_ALla56Mi8AN_RA2h3GoZ11ar
+}
+&nbsp;
+<span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/950628322067480606/954039601725599844/connection_terminated_reza.mp4 | Btw, I change my profile avatar each season -->view links.json</span>
+{
+    Discord: "<span id="c">_MRZT721010_#7210</span>",
+    GitHub: "<span id="c">mrzt721010</span>",
+    Email: "<span id="c">mrzt721010@yahoo.com</span>"
+}
+&nbsp;
+<span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><span id="b">logout</span>
+<span style="color: transparent">Ronald, I still didn't know that you own the unusual ghastly gibus O;</span>
+Successfully logged out! Hope you have a wonderful day on Lost!
+&nbsp;
+<span id="a">\\Root\ATL-srg&gt;&nbsp;</span>
